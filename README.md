@@ -34,11 +34,9 @@
 
 1. 登入
 
-   管理员账号：admin	密码：admin
+   管理员账号：admin	密码：123456
 
-   客户账号：kehu	密码：111111
-
-   配送员：peisongyuan 密码：111111
+   客户账号：123456@qq.com	密码：123456
 
 2.运行流程
 
@@ -82,6 +80,11 @@
 
 + 管理端
 
+**登陆页面**
+
+![Uploading image.png…]()
+
+
 **首页**
 
 ![image](https://github.com/luooin/homestay-system/assets/85004172/c4714fe2-7330-45a2-9990-a734585bef23)
@@ -111,8 +114,4 @@
 4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
 5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
-
-
-
-![image](https://github.com/luooin/homestay-system/assets/85004172/4159654f-6d66-4fe9-8004-c708e578a3aa)
 
