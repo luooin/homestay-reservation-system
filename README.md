@@ -1,4 +1,4 @@
-# homestay-system🎂
+# homestay-reservation-system🎂
 基于SpringBoot+Vue的民宿预定系统
 
 #### 介绍🌞
