@@ -80,11 +80,6 @@
 
 + 管理端
 
-**登陆页面**
-
-![Uploading image.png…]()
-
-
 **首页**
 
 ![image](https://github.com/luooin/homestay-system/assets/85004172/c4714fe2-7330-45a2-9990-a734585bef23)
