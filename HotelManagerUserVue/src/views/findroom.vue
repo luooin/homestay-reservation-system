@@ -8,7 +8,7 @@
 					<div class="text item" style="margin-bottom: 20px;">
 						<el-row>
 							<el-col :span="16">
-								<p class="text-left"><i class="el-icon-location-outline"></i>高新区民宿</p>
+								<p class="text-left"><i class="el-icon-location-outline"></i>高新区农场民宿</p>
 							</el-col>
 						</el-row>
 						<el-form ref="form" :model="form">

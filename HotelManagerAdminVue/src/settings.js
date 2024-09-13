@@ -1,6 +1,6 @@
 module.exports = {
 
-  title: '民宿后台管理系统',
+  title: '农场民宿后台管理系统',
 
 
   fixedHeader: false,

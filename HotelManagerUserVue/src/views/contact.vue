@@ -9,7 +9,7 @@
             <div class="contact-info text-left">
               <p class="contact-eng">DaXueCheng Hotel, Inc</p>
               <p>江西省南昌市高新区</p>
-              <p>高新区民宿</p>
+              <p>高新区农场民宿</p>
               <p>Tel：010-12345678</p>
               <p>Fax：010-88888889</p>
             </div>

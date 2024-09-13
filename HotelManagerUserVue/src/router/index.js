@@ -11,7 +11,7 @@ const routes = [
     name: '',
     component: login,
     meta: {
-      title: "民宿预订系统"
+      title: "农场民宿预订系统"
     },
   },
   {
@@ -19,7 +19,7 @@ const routes = [
     name: "index",
     component: () => import('@/views/index.vue'),
     meta: {
-      title: "民宿预订系统"
+      title: "农场民宿预订系统"
     },
   },
   {
@@ -27,7 +27,7 @@ const routes = [
     name: "login",
     component: () => import('@/views/login.vue'),
     meta: {
-      title: "民宿预订预订系统-登录"
+      title: "农场民宿预订预订系统-登录"
     }
   },
   {
@@ -35,7 +35,7 @@ const routes = [
     name: 'findroom',
     component: () => import('@/views/findroom.vue'),
     meta: {
-      title: "民宿预订系统-找房"
+      title: "农场民宿预订系统-找房"
     },
   },
   {
@@ -43,7 +43,7 @@ const routes = [
     name: 'reservation',
     component: () => import('@/views/reservation.vue'),
     meta: {
-      title: "民宿预订系统-订房"
+      title: "农场民宿预订系统-订房"
     },
   },
 	{
@@ -51,7 +51,7 @@ const routes = [
 	  name: 'reservation-c',
 	  component: () => import('@/views/reservation-custom.vue'),
 	  meta: {
-	    title: "民宿预订系统-订房"
+	    title: "农场民宿预订系统-订房"
 	  },
 	},
   {
@@ -59,7 +59,7 @@ const routes = [
     name: 'mine',
     component: () => import('@/views/mine.vue'),
     meta: {
-      title: "民宿预订系统-我的"
+      title: "农场民宿预订系统-我的"
     },
   },
   {
@@ -67,7 +67,7 @@ const routes = [
     name: 'detail',
     component: () => import('@/views/roomdetail.vue'),
     meta: {
-      title: "民宿预订系统-客房详情"
+      title: "农场民宿预订系统-客房详情"
     },
   },
   {
@@ -75,7 +75,7 @@ const routes = [
     name: 'search',
     component: () => import('@/views/search.vue'),
     meta: {
-      title: "民宿预订系统-客房详情"
+      title: "农场民宿预订系统-客房详情"
     },
   },
   {
@@ -83,7 +83,7 @@ const routes = [
     name: 'register',
     component: () => import('@/views/register.vue'),
     meta: {
-      title: "民宿预订系统-注册"
+      title: "农场民宿预订系统-注册"
     },
   },
   {
@@ -91,7 +91,7 @@ const routes = [
     name: 'changepswd',
     component: () => import('@/views/changepswd.vue'),
     meta: {
-      title: "民宿预订系统-更改密码"
+      title: "农场民宿预订系统-更改密码"
     },
   },
   {
@@ -99,7 +99,7 @@ const routes = [
     name: 'history',
     component: () => import('@/views/history.vue'),
     meta: {
-      title: "民宿预订系统-历史订单"
+      title: "农场民宿预订系统-历史订单"
     },
   },
   {
@@ -107,7 +107,7 @@ const routes = [
     name: 'checkinfo',
     component: () => import('@/views/checkinfo.vue'),
     meta: {
-      title: "民宿预订系统-个人信息"
+      title: "农场民宿预订系统-个人信息"
     },
   },
   {
@@ -115,7 +115,7 @@ const routes = [
     name: 'contact',
     component: () => import('@/views/contact.vue'),
     meta: {
-      title: "民宿预订系统-联系我们"
+      title: "农场民宿预订系统-联系我们"
     },
   },
   {

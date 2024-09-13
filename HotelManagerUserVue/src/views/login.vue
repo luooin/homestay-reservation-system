@@ -10,7 +10,7 @@
                                 class="iconfont icon-r-yes"
                                 style="font-size: 32px"
                             ></i>
-                            民宿预订系统
+                            农场民宿预订系统
                         </p>
                         <el-form
                             :model="login"

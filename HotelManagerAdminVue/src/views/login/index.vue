@@ -11,7 +11,7 @@
                     label-position="left"
                 >
                     <div class="title-container">
-                        <h2 class="title">民宿后台管理系统</h2>
+                        <h2 class="title">农场民宿后台管理系统</h2>
                     </div>
 
                     <el-form-item prop="username">
